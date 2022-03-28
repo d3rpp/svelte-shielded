@@ -34,6 +34,8 @@ import {Button, SmallTab, LargeTab} from 'svelte-shielded';
 
 Each of these can be used like standard svelte components, however, only the button is to be treated as a standard element, the 2 tab elements will place themselves ontop of ALL other markdown using CSS
 
+**IMPORTANT:** the `Button` uses an SVG, whilst the `SmallTab` and `LargeTab` use a base64 encoded png.
+
 ## Parameters
 
 ***All parameters are optional.***
