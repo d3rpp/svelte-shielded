@@ -1,7 +1,12 @@
 {
   "name": "svelte-shielded",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
+  "url": "https://github.com/d3rpp/svelte-shielded",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d3rpp/svelte-shielded"
+  },
   "license": "MIT",
   "scripts": {
     "dev": "rollup -c -w",

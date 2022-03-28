@@ -48,7 +48,7 @@ export default [
 	// Module Mode, allows for lazy loading
 	// if browser doesnt support modules, this will fail to load
 	{
-		input: 'src/index.js',
+		input: 'src/main.js',
 		output: {
 			sourcemap: !production,
 			format: 'iife',

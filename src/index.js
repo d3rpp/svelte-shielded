@@ -1,7 +1,5 @@
-import App from './App.svelte';
+import Button from './button';
+import SmallTab from './small-tab';
+import LargeTab from './large-tab';
 
-const app = new App({
-	target: document.body,
-});
-
-export default app;
+export { Button, SmallTab, LargeTab };

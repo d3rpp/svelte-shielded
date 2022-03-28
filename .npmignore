@@ -1,2 +1,7 @@
 src/App.svelte
+src/main.js
 public
+rollup.config.js
+svelte.config.js
+node_modules
+.git
