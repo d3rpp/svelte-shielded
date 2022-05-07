@@ -1,5 +1,10 @@
 # svelte-shielded
 
+[![npm version](https://img.shields.io/npm/v/svelte-shielded.svg?style=for-the-badge)](https://www.npmjs.org/package/svelte-shielded)
+[![npm downloads](https://img.shields.io/npm/dm/svelte-shielded.svg?style=for-the-badge)](https://npm-stat.com/charts.html?package=svelte-shielded)
+[![install size](https://packagephobia.now.sh/badge?p=svelte-shielded&style=for-the-badge)](https://packagephobia.now.sh/result?p=svelte-shielded)
+
+
 A svelte port of the [Women's Refuge Shielded Site Project](https://shielded.co.nz/)
 
 is fully functional and tested manually, since i couldnt be bothered writing automatic tests.
