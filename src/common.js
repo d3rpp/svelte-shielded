@@ -57,14 +57,14 @@ export function handleOpen(e) {
 
 	frame.style.display = 'block';
 	frame.setAttribute('open', 'true');
-	document.body.style.overflow = 'hidden';
+	// document.body.style.overflow = 'hidden';
 }
 
 export function handleClose(e) {
 	e.preventDefault ? e.preventDefault() : (e.returnValue = !1);
 	if (!initialised) return;
 	if (frame.getAttribute('open') == 'false') return;
-	document.body.removeAttribute('style');
+	// document.body.removeAttribute('style');
 	frame.setAttribute('open', 'false');
 	frame.style.display = 'none';
 }
