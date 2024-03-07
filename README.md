@@ -49,5 +49,5 @@ The small and large tab both have a `top` and `left` parameter in order to deter
 
 # Issues
 
-If you come across an issue with the repostiry, feel free to open up an issue stating the problem, and we can work very quickly to resolve it since the is the kinds of library that can be very important.
+If you come across an issue with the repository, feel free to open up an issue stating the problem, and we can work very quickly to resolve it.
 
